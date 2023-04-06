@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T12:29:55Z",
+  "IdClaims": [
+    {
+      "Claim": "t:reinouts"
+    },
+    {
+      "Claim": "gh:reinouts"
+    },
+    {
+      "Claim": "mdon:@reinouts@mastodon.green"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "5e36f8476140df2ee59e154f",
+    "Timestamp": "2023-04-06T12:32:31Z",
+    "Signature": "8dfd00bcfeb59ec96a74e065eaaf956f19647a3bea3cccb2ab1d38c967b86560b02b667767294b848f10c75ff4850d953c6af9ca83e51821d8db45aba8259bed8903f15820e475d4524cfb260e8877fd2d0623e7543492997d9084f00af70496e343cf26ce4e3aeefcdda213dcac75d132772393f9b52a9db7669b615d006fc4efa971982e709647fbb0db4881578766eb2bd6aa85da4605a28d1581d7a38fccbfad469a9dbff7e24e37cf9e4dac0f8a0eb582ef1271613565e18a5992aa1353979978ea46e9e3f9ddc7d9ac4d109dabbaf3b4693fb09a547c8b5a3187e5afcc8ce70850dfabbf3d7f962f66d6ccc630860ed951703842d8ff05d0f54cdd184e"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "875dc7d8ff150a342531022c2837671bb7de9dbb830ce77205f379d81350bfb6",
+  "ContentToHash": "v1|gh:reinouts,mdon:@reinouts@mastodon.green,t:reinouts|2023-04-06T12:29:55Z"
+}
